@@ -1,6 +1,6 @@
 # Adrey_QA
 
-Примерые выполненных тестовых заданий
+Примеры выполненных тестовых заданий
 
 https://docs.google.com/spreadsheets/d/1UCmY6KgNp96twplVjAGkc5ne5xd_vzLdAHkQ_4GGSQY/edit?usp=sharing 
 
